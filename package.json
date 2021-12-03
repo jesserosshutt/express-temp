@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jesserosshutt/express-temp/issues"
   },
-  "homepage": "https://github.com/jesserosshutt/express-temp#readme"
+  "homepage": "https://github.com/jesserosshutt/express-temp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
